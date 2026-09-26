@@ -1,4 +1,4 @@
-// Ho va ten: Nguyen Van Phuoc - MSSV: 25810035
+// Ho va ten: Ho Thanh Tinh - MSSV: 25810044
 //  Bai 01: Xep hang ve xem phim theo do tuoi
 package com.example.ltdd.buoi03
 
